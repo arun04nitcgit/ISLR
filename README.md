@@ -1,2 +1,4 @@
-# ISLR
-This repository is created to cover exercises in ISLR.
+## ISLR
+An Introduction to Statistical Learning with Applications in R
+
+by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
